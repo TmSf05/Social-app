@@ -18,7 +18,7 @@ class FeedItem extends StatelessWidget {
       child: Container(
           decoration: BoxDecoration(
             color: Colors.white,
-            borderRadius: BorderRadius.circular(16,
+            borderRadius: BorderRadius.circular(8),
           ),
           height: 120,
           child: Padding(
